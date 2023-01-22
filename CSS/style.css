@@ -1,0 +1,10 @@
+body{
+    background-color: #c2d195
+}
+<style>       
+    hr{
+        height: 1px;
+        background-color: rgb(230, 10, 10);
+        border: none;
+    }
+</style>
